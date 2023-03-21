@@ -14,8 +14,10 @@
 # refactor: [PATCH] improve code (without changing external behavior)
 # perf:     [PATCH] improve performance
 # test:     [PATCH] add or update tests
+# build:    [PATCH] add or update the build system and external dependencies
+# ci:       [PATCH] add or update CI configuration files and scripts
 # docs:     [PATCH] add or update documents
-# chore:    [PATCH] add or update auxiliary tools and libraries
+# chore:    [PATCH] do chores excluding those mentioned above
 #
 # ##### references #####
 # https://www.conventionalcommits.org/ja/v1.0.0/
